@@ -1,0 +1,309 @@
+body
+{
+	color: white;
+	font-family: Verdana, Tahoma, "Trebuchet MS", sans-serif;
+	background: #615BD7;
+	margin: 0px;
+}
+
+#Subtext
+{
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	padding: 1%;
+	margin-left: 20%;
+	margin-right:20%;
+	text-align: center;
+	
+}
+
+.navbar 
+{
+  background-color: #514AD3;
+  overflow: hidden;
+}
+
+
+/* Link Descriptions - Text Decoration takes away the underline*/
+.navbar a 
+{
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+/* Color of links change when Hovering */
+.navbar a:hover 
+{
+  background-color: #252083;
+  color: white;
+}
+
+/* Colour of the selected link*/
+.navbar a.active {
+  background-color: #04AA6D;
+  color: white;
+  margin: 0%;
+}
+
+.text1
+{
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	padding: 1%;
+	margin-left: 20%;
+	margin-right:20%;
+	text-align: justify;
+}	
+
+.list1
+{
+	text-align: justify;
+	font-size: 18px;
+}
+
+/*Styling the look of specific text*/
+#p1
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#p2
+{
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 0px;
+}
+
+
+
+#RTT
+{
+	text-align: center;
+	font-size: 15px;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	margin-right: 46%;
+	margin-left: 46%;
+}
+
+h2
+{
+	font-size: 30px;
+	text-align: left;
+}
+
+p
+{
+	font-size: 23px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 45px;
+}
+
+/* unvisited link */
+a:link 
+{
+	color: white;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	color: #04F1C2;
+	text-decoration: none;
+}
+
+/*Positioning the images to stacking on-top of each other*/
+#kylie1
+{
+	margin-left: 65%;
+	margin-top: -100%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	width: 250px;
+}
+
+#efron1
+{
+	margin-left: 51%;
+	margin-top: -20%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	width: 200px;
+}
+
+#katy1
+{
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	margin-left: 80%;
+	margin-top: -14%;
+	width: 160px;
+}
+
+.text2
+{
+	font-size: 20px;
+	margin-left: 16%;
+}
+
+/*Slight Adjustments to placement of items*/
+#heading2
+{
+	margin-top: -6%;
+}
+
+#top
+{
+	margin: 0;
+	width: 100%;
+}
+
+#h3-1
+{
+	font-weight: normal;
+}
+
+#skingrafting
+{
+	float: right;
+	margin-left: 1%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	width: 300px;
+}
+
+
+/* Tried moving text closer to text above, then decided this looked better*/
+#sg2
+{
+	padding-top: -0%;
+}
+
+.WWII
+{
+	margin-left: 26%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	width: 400px;
+}
+
+#p21
+{
+	text-align: justify;
+	margin-left: 2%;
+	margin-right: 71%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+}
+
+#column1
+{
+	margin-left: 9%;
+	margin-top: 5%;
+}
+
+#p22
+{
+	text-align: justify;
+	margin-left: 31%;
+	margin-right: 35%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+}
+
+#column2
+{
+	margin-left: 40%;
+	margin-top: -48%;
+}
+
+#p23
+{
+	text-align: justify;
+	margin-left: 67%;
+	margin-right: 2%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+}
+
+#column3
+{
+	margin-left: 78%;
+	margin-top: -39%;
+}
+
+#facelift1
+{
+	border-color: #C0BDEF;
+	border-width: thick;
+	border-style: solid;
+	margin-left: 15%;
+	margin-top: 3%;
+}
+
+.p31
+{
+	text-align: justify;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	padding: 1%;
+}
+
+#kylie2
+{
+	margin-left: 15%;
+}
+
+#heading4
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	border-color: #C0BDEF;
+	border-width: medium;
+	border-style: solid;
+	padding: 1%;
+}
+
+#bullying
+{
+	margin-left: 15%;
+}
+
+.p41
+{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.src
+{
+	margin-left: 10%;
+}
+
+.validators
+{
+	width: 165px;
+}
